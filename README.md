@@ -4,10 +4,7 @@ Landing Page desenvolvida para praticar HTML5 e CSS3, com foco na utilização d
 
 ## 📸 Preview
 
-> Adicione aqui uma captura de tela do projeto.
-
-<!-- Exemplo -->
-<!-- ![Preview](assets/preview.png) -->
+![Preview](assets/preview.png)
 
 ---
 
